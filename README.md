@@ -11,4 +11,4 @@ Mentors: Mario Behling, Lorenz Gerber, Gi Soong Chi.
 The programs developed will be added to Pocket Science Lab repositiory of FOSSASIA. http://fossasia.github.io/pslab.fossasia.org/
 
 
-As a part of GSoC-16 Project, we are also working on developing new portable Lab Tool which will be the main component of Fossasia Science Lab. This new interface is inspired from ExpEYES (www.expeyes.in)
+As a part of GSoC-16 Project, we are also working on developing new portable Lab Tool "PSLab" which will be the main component of Fossasia Science Lab. This new interface is inspired from ExpEYES (www.expeyes.in)
